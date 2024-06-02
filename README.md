@@ -23,7 +23,7 @@ MySql(v8.0)
 
 JAVA(jdk v22.0)
 
-## MySql Schema
+## Database Schema
 
 -- Created the users table
 
