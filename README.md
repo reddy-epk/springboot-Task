@@ -1,7 +1,7 @@
 
 # Spring Boot Assignment
 
-Creating users and preforming CRUD operations on usersdata by updating the user,deleting the user.
+Creating users and preforming CRUD operations on users data by updating the user,deleting the user.
 ## Implemented Files
 
   Implented files:
