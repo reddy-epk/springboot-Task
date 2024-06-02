@@ -1,6 +1,6 @@
-#Configured the below files
+###Configured the below files
 
-###Basic mySql query
+#Basic mySql query
 -- Create the users table
 CREATE TABLE users (
   user_id BINARY(16) PRIMARY KEY,
